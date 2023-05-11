@@ -1,0 +1,43 @@
+RELEASE S3/1.00b (Standard 3, fix per schede video Voodoo 3 e G200)
+08giu01: Altro aggiornamento per maggiore compatibilita' con le schede video
+         Voodoo 3 e G200
+
+RELEASE S3/1.00a (Standard 3, fix per schede video Voodoo 3 e G200)
+28mag01: Modificate le proprieta' di alcuni sprites per maggiore compatibilita'
+         con le schede video Voodoo 3 e G200, che pare abbiano qualche
+         problema nel mostrare sprites trasparenti a 1-bit; inserita la
+         libreria fmod.dll 3.33
+
+RELEASE S3/1.00 (Standard 3, final)
+03apr01: Rielaborazione della grafica del manuale; compilato il "Manual.EXE"
+02apr01: Beta-testing
+01apr01: Cambiate alcune impostazioni di visualizzazione per le bitmap a 1-bit
+28mar01: Completate le routines sulla generazione dei corvi; fixati alcuni
+         bugs nelle routines della chance-time; implementate le velocita' e i
+         livelli di gioco; routines per le collisioni tra Junior e i corvi
+26mar01: Corretti alcuni bugs nelle routines musicali; routines per il bonus
+         addizionale e per il cambio di livello; campionate ed aggiunte le 
+         ultime musiche; implementata la chance-time; implementate le routines
+         per il movimento dei corvi, e preliminari sulla generazione
+25mar01: Campionate ed aggiunte altre musiche; routines per il game over;
+         routines per la perdita della chiave e per l'apertura delle
+         serrature; implementato il salvataggio dello HiScore mediante il
+         registro di sistema
+24mar01: Campionate ed aggiunte altre musiche; gestione della chiave;
+         routines per la generazione ed il movimento di ombrelli e palloncini;
+         rifinite le routines per il movimento di Junior; routines per la
+         gestione della noce di cocco e per le sue collisioni; movimento di
+         Junior su ombrelli e palloncini; prime routines di errore
+23mar01: Ancora routines per la gestione dei tasti; campionate ed inserite le
+         prime musiche; routines preliminari per il movimento di Junior;
+         routines per la scenetta d'avvio gioco; implementato il punteggio
+         mediante LCD; routines per il movimento di Donkey Kong
+20mar01: Completata la mappatura degli sprites sul display LCD; routines
+         preliminari per la gestione dei tasti; implementato l'orologio
+         mediante LCD; inserito il popup menu, lo schermo introduttivo
+         all'avvio del programma e lo schermo "about"
+19mar01: Ancora mappatura degli sprites sul display LCD
+18mar01: Completata la rielaborazione delle immagini; cominciato il codice
+         Delphi; disegnata ed inserita l'icona principale; mappati gli sprites
+         sul display LCD; implementato il trascinamento del form del gioco
+17mar01: Cominciata la rielaborazione delle immagini ricevute da Andy Cole

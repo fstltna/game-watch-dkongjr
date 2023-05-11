@@ -1,0 +1,7 @@
+June 8th, 2001 - Release S3/1.00b (Standard 3, fix for Voodoo3/G200 video cards)
+More updtes to fix the problem with Voodoo3 and G200 cards.
+
+May 28th, 2001 - Release S3/1.00a (Standard 3, fix for Voodoo3/G200 video cards)
+Changed some sprites properties due to a problem with Voodoo3 and G200 cards,
+which appear to have some problems with showing 1-bit transparent bitmap sprites.
+Added fmod.dll 3.33
